@@ -4,19 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f89fc33d-0c03-41a1-b65f-ccdbdb5dcce9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework1/HotCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework1/HotDrink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework1/HotDrinkMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework1/HotTea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework1/VendingMachine.java" afterDir="false" />
+    <list default="true" id="f89fc33d-0c03-41a1-b65f-ccdbdb5dcce9" name="Changes" comment="Make homework 1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/MarketBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/OueueBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/Task1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/Task2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +50,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "last_opened_file_path": "E:/Обучение IT/GeekBrains(работа в средах разраб)/ООП (Java)/Homeworks/src/main/java/Homework2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Обучение IT\GeekBrains(работа в средах разраб)\ООП (Java)\Homeworks\src\main\java\Homework2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,6 +67,18 @@
       <option name="presentableId" value="Default" />
       <updated>1697277305978</updated>
     </task>
+    <task id="LOCAL-00001" summary="Make homework 1">
+      <created>1697281895995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697281895995</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Make homework 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make homework 1" />
   </component>
 </project>
