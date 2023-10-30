@@ -4,21 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f89fc33d-0c03-41a1-b65f-ccdbdb5dcce9" name="Changes" comment="Make homework 1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/Actor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/MarketBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/OueueBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/Task1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework2/Task2.png" afterDir="false" />
+    <list default="true" id="f89fc33d-0c03-41a1-b65f-ccdbdb5dcce9" name="Changes" comment="Make homework 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/DataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/StreamComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/StreamService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/StudentComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/StudentGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/StudentGroupIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/StudentGroupService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/Task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/UserView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,7 +59,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Обучение IT/GeekBrains(работа в средах разраб)/ООП (Java)/Homeworks/src/main/java/Homework2"
+    "last_opened_file_path": "E:/Обучение IT/GeekBrains(работа в средах разраб)/ООП (Java)/Homeworks",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -74,11 +86,19 @@
       <option name="project" value="LOCAL" />
       <updated>1697281895995</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Make homework 2">
+      <created>1697632751082</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697632751082</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Make homework 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make homework 1" />
+    <MESSAGE value="Make homework 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make homework 2" />
   </component>
 </project>
