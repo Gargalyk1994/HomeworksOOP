@@ -1,13 +1,13 @@
-package Homework3;
+package Homework3And4;
 
 
 import java.util.List;
 
-public class UserController {
+public class UserController<T extends User> {
 
     private final DataService dataService = new DataService();
     private final StudentGroupService studentGroupService = new StudentGroupService();
-    private final UserView userView = new UserView();
+    private final UserView userView;
     private StreamService streamService;
 
     public void createStudent(String firstName, String secondName, String patronymic, int dateOfBirth){
@@ -32,7 +32,8 @@ public class UserController {
         return studentGroupService.getSortedByFIOStudentGroup();
     }
 
-    public UserController(StreamService streamService) {
+    public UserController(UserView userView, StreamService streamService) {
+        this.userView = userView;
         this.streamService = streamService;
     }
 

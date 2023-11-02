@@ -4,22 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f89fc33d-0c03-41a1-b65f-ccdbdb5dcce9" name="Changes" comment="Make homework 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/DataService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/StreamComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/StreamService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/StudentComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/StudentGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/StudentGroupIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/StudentGroupService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/Task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3/UserView.java" afterDir="false" />
+    <list default="true" id="f89fc33d-0c03-41a1-b65f-ccdbdb5dcce9" name="Changes" comment="Make homework 3 again">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/StudentGroupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/TeacherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/TeacherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/TeacherView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/UserView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/DataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/DataService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/Stream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/StreamComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/StreamComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/StreamService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/StreamService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/StudentComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/UserComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/StudentGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/StudentGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/StudentGroupIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/StudentGroupIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/StudentGroupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/StudentGroupService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/Task.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/Task.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework3And4/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework3/UserView.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,16 +62,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Обучение IT/GeekBrains(работа в средах разраб)/ООП (Java)/Homeworks",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Обучение IT/GeekBrains(работа в средах разраб)/ООП (Java)/Homeworks&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Обучение IT\GeekBrains(работа в средах разраб)\ООП (Java)\Homeworks\src\main\java\Homework2" />
@@ -93,12 +100,28 @@
       <option name="project" value="LOCAL" />
       <updated>1697632751082</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Make homework 3">
+      <created>1698638654061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698638654061</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Make homework 3 again">
+      <created>1698638740430</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698638740430</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Make homework 1" />
     <MESSAGE value="Make homework 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make homework 2" />
+    <MESSAGE value="Make homework 3" />
+    <MESSAGE value="Make homework 3 again" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make homework 3 again" />
   </component>
 </project>

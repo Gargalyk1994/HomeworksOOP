@@ -1,4 +1,4 @@
-package Homework3;
+package Homework3And4;
 
 import java.util.Comparator;
 
@@ -6,8 +6,10 @@ public class Teacher extends User{
 
     private Long teacherId;
 
-    public Teacher(String firstName, String secondName, String patronymic, int dateOfBirth) {
+
+    public Teacher(String firstName, String secondName, String patronymic, int dateOfBirth, Long teacherId) {
         super(firstName, secondName, patronymic, dateOfBirth);
+        this.teacherId = teacherId;
     }
 
     public Long getTeacherId() {
@@ -24,4 +26,6 @@ public class Teacher extends User{
             return 0;
         }
     }
+
+
 }

@@ -1,4 +1,4 @@
-package Homework3;
+package Homework3And4;
 
 public class Student extends User implements Comparable<Student> {
     private int studentId;
